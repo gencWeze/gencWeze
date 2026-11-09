@@ -36,7 +36,7 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 | | |
 |---|---|
 | 🎓 | **Bachelor of Statistics, Universitas Diponegoro** (2020–2026), GPA **3.85/4.00** |
-| 📄 | Two research manuscripts for **Jurnal Gaussian** (Undip): DENCLUE poverty clustering and stock portfolio optimization ([read more](https://github.com/gencWeze/Statistics-Research-Projects)) [[CEK: status terbit]] |
+| 📄 | Two research manuscripts for **Jurnal Gaussian** (Undip): DENCLUE poverty clustering and stock portfolio optimization ([read more](https://github.com/gencWeze/Statistics-Research-Projects)) |
 | 🚀 | **Bangkit Academy 2023**, Machine Learning path (led by Google, Gojek, Tokopedia and Traveloka) |
 | 📜 | Google Data Analytics coursework, Machine Learning Specialization (DeepLearning.AI & Stanford), Mathematics for ML (Imperial College London) and more. [See all, with verification links →](https://github.com/gencWeze/Competency-Certification) |
 | 🧑‍🤝‍🧑 | Chaired the **150-person organizing committee of "Dokter Data"**, a national statistics competition held with the Indonesia Stock Exchange and BNI that drew **500+ participants** |
