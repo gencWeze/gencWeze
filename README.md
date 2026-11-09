@@ -29,12 +29,14 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 - **AAR Actuarial Consulting:** I cleaned data, ran preliminary post-employment benefit calculations under PSAK 219, and prepared analysis reports for **92 client companies**.
 - **Industry and Trade Agency:** I surveyed legal and illegal production as a customs surveyor and compiled production reports covering **29 regencies and 6 cities** in Central Java.
 
+**Other experience:** helped set up and run a **family grocery store** in Jakarta (Aug 2024 – Dec 2025). I compared suppliers, helped allocate the startup budget, set selling prices, created purchase-recording and stock-replenishment procedures, and trained family members to run daily operations on their own.
+
 ## 🏆 Highlights
 
 | | |
 |---|---|
 | 🎓 | **Bachelor of Statistics, Universitas Diponegoro** (2020–2026), GPA **3.85/4.00** |
-| 📄 | Two research manuscripts for **Jurnal Gaussian** (Undip): DENCLUE poverty clustering and stock portfolio optimization |
+| 📄 | Two research manuscripts for **Jurnal Gaussian** (Undip): DENCLUE poverty clustering and stock portfolio optimization ([read more](https://github.com/gencWeze/Statistics-Research-Projects)) [[CEK: status terbit]] |
 | 🚀 | **Bangkit Academy 2023**, Machine Learning path (led by Google, Gojek, Tokopedia and Traveloka) |
 | 📜 | Google Data Analytics coursework, Machine Learning Specialization (DeepLearning.AI & Stanford), Mathematics for ML (Imperial College London) and more. [See all, with verification links →](https://github.com/gencWeze/Competency-Certification) |
 | 🧑‍🤝‍🧑 | Chaired the **150-person organizing committee of "Dokter Data"**, a national statistics competition held with the Indonesia Stock Exchange and BNI that drew **500+ participants** |
@@ -45,11 +47,11 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 | Project | What it is | Tools |
 |---|---|---|
 | [**Clinic Social Media & Conversion Analytics**](https://github.com/gencWeze/clinic-social-media-analytics) | Benchmark of 20+ competitor clinic accounts, a social-media-to-patient conversion funnel and patient-visit trend analysis | Excel / Google Sheets |
-| [**Poverty Clustering with DENCLUE**](https://github.com/gencWeze/Capstone-and-Project-Portfolio) | Undergraduate thesis: clustered 514 regencies/cities by poverty indicators (BPS 2025 data); best model reached a DBCV score of 0.815 | R, RStudio |
-| [**Stock Portfolio Optimization**](https://github.com/gencWeze/Capstone-and-Project-Portfolio) | Ward clustering on ROA/ROE/NPM to pick SRI-KEHATI stocks, mean-semivariance weighting and Historical-Simulation VaR | R |
-| [**e-Raport Dashboard: SMP 2 Paninggaran**](https://github.com/gencWeze/erapor-dashboard-smpn2-paninggaran) | Student report-card dashboard built for teachers during KKN | Google Data Studio, Spreadsheet |
-| [**Spreadsheet-to-Email Automation**](https://github.com/gencWeze/sheets-to-email-automation) | Sends personalized emails straight from a spreadsheet for a social-services office | Spreadsheet,Google Apps Script |
-| [**Landing Page: SMP 2 Paninggaran**](https://github.com/gencWeze/landing-page-smpn2-paninggaran) | School profile website built during KKN | HTML, CSS,JavaScript |
+| [**Poverty Clustering with DENCLUE**](https://github.com/gencWeze/Statistics-Research-Projects#1-poverty-clustering-of-514-indonesian-regenciescities-with-denclue) | Undergraduate thesis: clustered 514 regencies/cities by poverty indicators (BPS 2025 data); best model reached a DBCV score of 0.815 | R, RStudio |
+| [**Stock Portfolio Optimization**](https://github.com/gencWeze/Statistics-Research-Projects#2-sri-kehati-stock-portfolio-optimization-with-ward-clustering--mean-semivariance) | Ward clustering on ROA/ROE/NPM to pick SRI-KEHATI stocks, mean-semivariance weighting and Historical-Simulation VaR | R |
+| [**e-Raport Dashboard: SMP 2 Paninggaran**](https://github.com/gencWeze/erapor-dashboard-smpn2-paninggaran) | Student report-card dashboard built for teachers during KKN | [[ISI: tools]] |
+| [**Spreadsheet-to-Email Automation**](https://github.com/gencWeze/sheets-to-email-automation) | Sends personalized emails straight from a spreadsheet for a social-services office | [[ISI: mis. Google Apps Script]] |
+| [**Landing Page: SMP 2 Paninggaran**](https://github.com/gencWeze/landing-page-smpn2-paninggaran) | School profile website built during KKN | [[ISI: mis. HTML, CSS]] |
 | [**Loviso: Location Advisor**](https://github.com/MFaishalRamadhan/Capstone) | Bangkit capstone (team of 6). On the ML team I scraped Google Maps data and built location-based and user-based collaborative filtering recommendations from users' onboarding questionnaires | Python, TensorFlow |
 
 ## 🛠️ Toolbox
