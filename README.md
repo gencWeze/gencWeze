@@ -4,7 +4,7 @@ I turn messy spreadsheets, social media metrics and field data into decisions te
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agengwindartojati">LinkedIn</a> ·
-  <a href="mailto:[[ISI: email pribadi]]">Email</a> ·
+  <a href="mailto:Agengjati1@gmail.com">Email</a> ·
   <a href="https://github.com/gencWeze/Competency-Certification">Certifications</a>
 </p>
 
