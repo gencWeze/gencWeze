@@ -59,8 +59,8 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 |---|---|
 | **Proficient** | R, RStudio, SPSS |
 | **Working knowledge** | Excel, Google Sheets |
-| **Foundational** | SQL, Python, TensorFlow |
-| **Familiar** | Power BI, Tableau, Looker Studio, EViews, Minitab, MATLAB |
+| **Foundational** | SQL, Python, TensorFlow, HTML, CSS, JavaScript |
+| **Familiar** | Power BI, Tableau, Looker Studio, EViews, Minitab, MATLAB, Google Data Studio |
 
 ---
 
