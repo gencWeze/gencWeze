@@ -40,6 +40,7 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 | 🚀 | **Bangkit Academy 2023**, Machine Learning path (led by Google, Gojek, Tokopedia and Traveloka) |
 | 📜 | Google Data Analytics coursework, Machine Learning Specialization (DeepLearning.AI & Stanford), Mathematics for ML (Imperial College London) and more. [See all, with verification links →](https://github.com/gencWeze/Competency-Certification) |
 | 🧑‍🤝‍🧑 | Chaired the **150-person organizing committee of "Dokter Data"**, a national statistics competition held with the Indonesia Stock Exchange and BNI that drew **500+ participants** |
+| 🎨 | **Event coordinator of ACCENT 2021**, the Statistics Student Association's flagship arts & sports program: a national art competition with **250+ participants** and an esports tournament in partnership with **Dunia Games by Telkomsel** |
 | 🌐 | English: TOEFL prediction score **523** (Service English Unit, Undip, 2026) |
 
 ## 📂 Featured Projects
