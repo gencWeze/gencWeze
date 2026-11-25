@@ -22,6 +22,7 @@ I'm looking for an **entry-level Data Analyst** role where I can turn data into 
 | Role | Organization | Period |
 |---|---|---|
 | **Data Analyst**, Social Media & Clinic Data | Gading Medical Center (GMC) | Nov 2026 – present |
+| **Staff Bidding**, Enterprises Bussines | PT. Pos Indonesia | Nov 2026 – present |
 | **Junior Analyst** | AAR Actuarial Consulting | Jan – Mar 2023 |
 | **Surveyor** | Central Java Provincial Industry and Trade Agency | Oct – Dec 2022 |
 
